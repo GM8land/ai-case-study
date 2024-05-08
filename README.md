@@ -4,7 +4,7 @@
 
 Diffbot was Founded in 2012 by Mike Tung (CEO)
 
-As a grad student of AI at Stanford circa 2011, Mike Tung was working on an algorithm to understand human language, which would require an extremely large model to accomplish Around that time, he was exposed to Computer Vision (Image Net) and saw the potential of using Machine Learning to train large models. He concluded that the web is a even with  automated solution was needed. Given the vast amount unstructured data that exists on the web, he sought to build a solution to query, label, and synthesize it. 
+As a grad student studying AI at Stanford circa 2011, Mike Tung was working on an algorithm to understand human language, which would require an extremely large model to accomplish. The most comprehensive source of data that could be used to train a model exists on the World Wide Web, but the solution to extracting and training the vast amount of unstructured data would require automation.  Around that time, he was exposed to Computer Vision (Image Net) and saw the potential of using Machine Learning to train large models. This early work building a solution to query, structure, and synthesize the data was the foundation of Diffbot's web crawler. In 2012, 
 
 First round of startup funding ($2M) was received in 2012, followed by 3 subsequent rounds of Venture Capital funding totaling  $13M   
 
